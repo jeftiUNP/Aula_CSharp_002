@@ -1,0 +1,15 @@
+C:\Users\1282420838\Documents\JEFTI\obj\Debug\net9.0\JEFTI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1282420838\Documents\JEFTI\obj\Debug\net9.0\JEFTI.AssemblyInfoInputs.cache
+C:\Users\1282420838\Documents\JEFTI\obj\Debug\net9.0\JEFTI.AssemblyInfo.cs
+C:\Users\1282420838\Documents\JEFTI\obj\Debug\net9.0\JEFTI.csproj.CoreCompileInputs.cache
+C:\Users\1282420838\Documents\JEFTI\obj\Debug\net9.0\JEFTI.sourcelink.json
+C:\Users\1282420838\Documents\JEFTI\bin\Debug\net9.0\JEFTI.exe
+C:\Users\1282420838\Documents\JEFTI\bin\Debug\net9.0\JEFTI.deps.json
+C:\Users\1282420838\Documents\JEFTI\bin\Debug\net9.0\JEFTI.runtimeconfig.json
+C:\Users\1282420838\Documents\JEFTI\bin\Debug\net9.0\JEFTI.dll
+C:\Users\1282420838\Documents\JEFTI\bin\Debug\net9.0\JEFTI.pdb
+C:\Users\1282420838\Documents\JEFTI\obj\Debug\net9.0\JEFTI.dll
+C:\Users\1282420838\Documents\JEFTI\obj\Debug\net9.0\refint\JEFTI.dll
+C:\Users\1282420838\Documents\JEFTI\obj\Debug\net9.0\JEFTI.pdb
+C:\Users\1282420838\Documents\JEFTI\obj\Debug\net9.0\JEFTI.genruntimeconfig.cache
+C:\Users\1282420838\Documents\JEFTI\obj\Debug\net9.0\ref\JEFTI.dll
