@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("JEFTI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e51b211dc0dee1961ad42309654e0b6079c3110d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b55ceae5f2a8a1c1d7d0d1932882f9573ace176b")]
 [assembly: System.Reflection.AssemblyProductAttribute("JEFTI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("JEFTI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

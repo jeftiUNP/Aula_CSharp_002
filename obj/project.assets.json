@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\1282420838\\Documents\\JEFTI\\JEFTI.csproj",
+      "projectUniqueName": "C:\\Users\\1282420838\\Documents\\documentos jefti\\Aula_CSharp_002\\JEFTI.csproj",
       "projectName": "JEFTI",
-      "projectPath": "C:\\Users\\1282420838\\Documents\\JEFTI\\JEFTI.csproj",
+      "projectPath": "C:\\Users\\1282420838\\Documents\\documentos jefti\\Aula_CSharp_002\\JEFTI.csproj",
       "packagesPath": "C:\\Users\\1282420838\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\1282420838\\Documents\\JEFTI\\obj\\",
+      "outputPath": "C:\\Users\\1282420838\\Documents\\documentos jefti\\Aula_CSharp_002\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\1282420838\\AppData\\Roaming\\NuGet\\NuGet.Config"
